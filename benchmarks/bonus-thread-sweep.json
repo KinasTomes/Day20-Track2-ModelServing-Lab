@@ -1,0 +1,32 @@
+[
+  {
+    "threads": 1,
+    "ttft_ms": 442.5,
+    "tpot_ms": 98.0,
+    "tok_s": 10.2
+  },
+  {
+    "threads": 2,
+    "ttft_ms": 346.4,
+    "tpot_ms": 54.4,
+    "tok_s": 18.4
+  },
+  {
+    "threads": 6,
+    "ttft_ms": 309.8,
+    "tpot_ms": 32.4,
+    "tok_s": 30.9
+  },
+  {
+    "threads": 12,
+    "ttft_ms": 333.2,
+    "tpot_ms": 36.5,
+    "tok_s": 27.4
+  },
+  {
+    "threads": 16,
+    "ttft_ms": 332.9,
+    "tpot_ms": 38.9,
+    "tok_s": 25.7
+  }
+]
